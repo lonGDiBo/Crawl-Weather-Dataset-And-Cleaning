@@ -5,7 +5,8 @@
 In this project, we aim to gather weather data from a website and subsequently clean the dataset.
 
 Source data: https://www.bgc-jena.mpg.de/wetter/
-
+### Project Objective:
+Collect daily weather information for a span of 20 years, from 2003 to the current date.
 ### Implementation Process:
 - First, scrape data from the website.
 
